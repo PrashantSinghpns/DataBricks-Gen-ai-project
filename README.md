@@ -1,4 +1,4 @@
-# DataBricks-Gen-ai-project
+# GenAI Document Intelligence & QA System on DataBricks
 
 📌 GenAI-Powered PDF Analysis & Question Answering System
 
