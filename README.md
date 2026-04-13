@@ -20,3 +20,5 @@ Key capabilities include:
 The project is built using a modern AI stack including Python, LangChain/LlamaIndex, Hugging Face Transformers/OpenAI APIs, and vector databases, with a simple user interface (e.g., Streamlit) for interaction.
 
 This system demonstrates strong skills in GenAI, NLP, prompt engineering, information retrieval, and AI system design, and can be extended to real-world use cases such as legal document analysis, resume screening, research assistance, and enterprise knowledge management systems.
+
+Thanks !
